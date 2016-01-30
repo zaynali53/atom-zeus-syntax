@@ -5,6 +5,6 @@ Best for Night Coders
 
 ## Preview
 
-![HTML-Preview](https://github.com/zaynali53/atom-zeus-syntax/preview/html-preview.JPG)
-![HTML-Preview](https://github.com/zaynali53/atom-zeus-syntax/preview/php-preview.JPG)
-![HTML-Preview](https://github.com/zaynali53/atom-zeus-syntax/preview/scss-preview.JPG)
+![HTML-Preview](http://i.imgur.com/qOoDxFa.jpg)
+![PHP-Preview](http://i.imgur.com/4VHVplM.jpg)
+![SCSS-Preview](http://i.imgur.com/cKSBs1M.jpg)
