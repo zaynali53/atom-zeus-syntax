@@ -1,7 +1,7 @@
 {
   "name": "atom-zeus-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Best for Night Coders",
   "repository": "https://github.com/zaynali53/atom-zeus-syntax",
