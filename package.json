@@ -2,7 +2,12 @@
   "name": "atom-zeus-syntax",
   "theme": "syntax",
   "version": "1.0.2",
-  "private": true,
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "zeus"
+  ],
   "description": "Best for Night Coders",
   "repository": "https://github.com/zaynali53/atom-zeus-syntax",
   "license": "MIT",
